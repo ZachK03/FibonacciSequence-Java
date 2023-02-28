@@ -24,7 +24,8 @@ If I were to continue developing this application I would definitely make it so 
 <p align='center'>
 	<img src="https://imgur.com/mmEXdCV.png"><br/>
 	The output in the terminal after running the application.
-	
-<img src="https://imgur.com/Ryvcpq0.png"><br/>
+</p>
+<p align='center'>
+	<img src="https://imgur.com/Ryvcpq0.png"><br/>
 	The data imported into a chart using Excel.
 </p>
