@@ -1,5 +1,9 @@
+
 # Fibonacci Sequence Timer
 This Java app uses both recursive and iterative solutions and records the runtime of both to show the difference in performance. Using this app will result in the runtime and size of N being output in the console in .CSV format. 
+
+## Why Do This?
+This application is meant to show the differences in performance of iterative and recursive solutions. This app was useful to create as it can show people how inefficient a recursive solution is when compared to iterative solutions. For myself, I had used recursion in different solutions without really knowing how inefficient it is compared to iterative solutions. Using or creating this app themselves can show people who had didn't realize this notice these trends and work towards becoming better, more efficient developers. 
 
 ## Exporting the .CSV Data
 When trying to use the .CSV data you will need a text editor and a spreadsheet application. I will be using Window's Notepad and Excel. 
