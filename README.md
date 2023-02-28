@@ -24,6 +24,8 @@ When it came to developing this app, the easiest part was creating solutions for
 ## Expanding this App
 If I were to continue developing this application I would definitely make it so that the data is exported as a .CSV file instead of just being dumped into the console. This would be much cleaner and simpler to use for anyone not used to computers. 
 
+Another feature I would add is the ability to choose the amount of iterations. This would allow for larger datasets to be worked with rather than the hardcoded 20 iterations. This may be helpful in other scenarios, however, I do believe 20 iterations is more than enough to show what it is intended to show. I just believe it may be a nice addition to the app.
+
 ## App Output
 <p align='center'>
 	<img src="https://imgur.com/mmEXdCV.png"><br/>
